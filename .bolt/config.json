@@ -1,0 +1,11 @@
+{
+  "stackblitz": {
+    "repository": "anmlclt/colorsnatch_3",
+    "branch": "main",
+    "openFile": "src/App.tsx",
+    "template": "vite-react-ts",
+    "settings": {
+      "terminalHeight": 32
+    }
+  }
+}
